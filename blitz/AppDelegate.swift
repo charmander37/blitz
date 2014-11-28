@@ -1,6 +1,8 @@
 //
 //  AppDelegate.swift
 //  blitz
+
+// Eddie blows huge BBC
 //
 //  Created by Edward Zhang on 11/27/14.
 //  Copyright (c) 2014 Edward Zhang. All rights reserved.
